@@ -1,0 +1,2 @@
+# ngrx-task
+Ngrx mockup
